@@ -1,2 +1,3 @@
 # quicksort_algorithm
-cpp, x86, c
+
+cpp, c, x86
